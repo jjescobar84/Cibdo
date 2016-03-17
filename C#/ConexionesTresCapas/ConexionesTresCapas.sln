@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentacion", "ConexionesTresCapas\Presentacion.csproj", "{FCC06951-3E9A-4F80-8DCD-26496BE73359}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Logica", "Logica", "{CDAAC42F-3DCB-48CA-AB3E-CA3456A86B83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{8E5E07F9-A17D-490D-AF8D-4310A1E8E39E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentacion", "Presentacion", "{6AA679AB-643E-4024-BDF8-9508FDACC00E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCC06951-3E9A-4F80-8DCD-26496BE73359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC06951-3E9A-4F80-8DCD-26496BE73359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC06951-3E9A-4F80-8DCD-26496BE73359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC06951-3E9A-4F80-8DCD-26496BE73359}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E5E07F9-A17D-490D-AF8D-4310A1E8E39E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E5E07F9-A17D-490D-AF8D-4310A1E8E39E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E5E07F9-A17D-490D-AF8D-4310A1E8E39E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E5E07F9-A17D-490D-AF8D-4310A1E8E39E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8E5E07F9-A17D-490D-AF8D-4310A1E8E39E} = {CDAAC42F-3DCB-48CA-AB3E-CA3456A86B83}
+		{FCC06951-3E9A-4F80-8DCD-26496BE73359} = {6AA679AB-643E-4024-BDF8-9508FDACC00E}
+	EndGlobalSection
+EndGlobal

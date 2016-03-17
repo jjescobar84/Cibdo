@@ -1,0 +1,14 @@
+c:\users\admiinistrador\documents\visual studio 2013\Projects\ConexionesTresCapas\ConexionesTresCapas\bin\Debug\ConexionesTresCapas.exe.config
+c:\users\admiinistrador\documents\visual studio 2013\Projects\ConexionesTresCapas\ConexionesTresCapas\bin\Debug\ConexionesTresCapas.exe
+c:\users\admiinistrador\documents\visual studio 2013\Projects\ConexionesTresCapas\ConexionesTresCapas\bin\Debug\ConexionesTresCapas.pdb
+c:\users\admiinistrador\documents\visual studio 2013\Projects\ConexionesTresCapas\ConexionesTresCapas\bin\Debug\Logica.dll
+c:\users\admiinistrador\documents\visual studio 2013\Projects\ConexionesTresCapas\ConexionesTresCapas\bin\Debug\Logica.pdb
+c:\users\admiinistrador\documents\visual studio 2013\Projects\ConexionesTresCapas\ConexionesTresCapas\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+c:\users\admiinistrador\documents\visual studio 2013\Projects\ConexionesTresCapas\ConexionesTresCapas\obj\Debug\ConexionesTresCapas.Form1.resources
+c:\users\admiinistrador\documents\visual studio 2013\Projects\ConexionesTresCapas\ConexionesTresCapas\obj\Debug\ConexionesTresCapas.Properties.Resources.resources
+c:\users\admiinistrador\documents\visual studio 2013\Projects\ConexionesTresCapas\ConexionesTresCapas\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+c:\users\admiinistrador\documents\visual studio 2013\Projects\ConexionesTresCapas\ConexionesTresCapas\obj\Debug\ConexionesTresCapas.exe
+c:\users\admiinistrador\documents\visual studio 2013\Projects\ConexionesTresCapas\ConexionesTresCapas\obj\Debug\ConexionesTresCapas.pdb
+C:\Users\USER\Desktop\ConexionesTresCapas\ConexionesTresCapas\bin\Debug\ConexionesTresCapas.exe.config
+C:\Users\USER\Desktop\ConexionesTresCapas\ConexionesTresCapas\obj\Debug\ConexionesTresCapas.exe
+C:\Users\USER\Desktop\ConexionesTresCapas\ConexionesTresCapas\obj\Debug\ConexionesTresCapas.pdb

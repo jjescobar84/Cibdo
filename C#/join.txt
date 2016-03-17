@@ -1,0 +1,20 @@
+select * from tb_Cajas
+select * from tb_Productos
+select * from tb_Usuarios
+select * from tb_Venta
+select * from tb_Clientes
+select * from tb_DetalleVenta
+
+select v.codVenta, v.fecha, v.descuento, v.valor_totalVenta, c.cedulaNit_cliente, cj.descripcion
+from tb_Venta v inner join tb_Clientes c on (v.codCliente = c.codCliente) inner join tb_Cajas cj on (v.codCaja = cj.codCaja)
+
+
+select v.codVenta, v.fecha, v.descuento, v.valor_totalVenta, p.nombre_producto, d.cantidad, c.descripcion, u.usuario
+from tb_DetalleVenta d inner join tb_Venta v on  (d.codVenta = v.codVenta) 
+inner join tb_Cajas c on (c.codCaja = v.codCaja)
+
+inner join tb_Usuarios u on (c.codUsuario = u.codUsuario)
+inner join tb_Productos p on (d.codProductos = p.codProductos)
+
+
+inner join tb_Clientes cl on (v.codCliente = cl.cedulaNit_cliente)

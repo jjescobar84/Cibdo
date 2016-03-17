@@ -1,0 +1,13 @@
+c:\users\admiinistrador\documents\visual studio 2013\Projects\TiendasJhon\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+c:\users\admiinistrador\documents\visual studio 2013\Projects\TiendasJhon\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+c:\users\admiinistrador\documents\visual studio 2013\Projects\TiendasJhon\CapaDeDatos\obj\Debug\CapaDeDatos.csprojResolveAssemblyReference.cache
+c:\users\admiinistrador\documents\visual studio 2013\Projects\TiendasJhon\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+c:\users\admiinistrador\documents\visual studio 2013\Projects\TiendasJhon\CapaDeDatos\obj\Debug\CapaDeDatos.pdb
+C:\Users\USER\Desktop\TiendasJhon\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+C:\Users\USER\Desktop\TiendasJhon\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+C:\Users\USER\Desktop\TiendasJhon\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+C:\Users\USER\Desktop\TiendasJhon\CapaDeDatos\obj\Debug\CapaDeDatos.pdb
+C:\Users\Admiinistrador\Desktop\TiendasJhon\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+C:\Users\Admiinistrador\Desktop\TiendasJhon\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+C:\Users\Admiinistrador\Desktop\TiendasJhon\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+C:\Users\Admiinistrador\Desktop\TiendasJhon\CapaDeDatos\obj\Debug\CapaDeDatos.pdb

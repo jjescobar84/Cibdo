@@ -1,0 +1,21 @@
+c:\users\admiinistrador\documents\visual studio 2013\Projects\TiendasJhon\CapaNegocios\bin\Debug\CapaNegocios.dll
+c:\users\admiinistrador\documents\visual studio 2013\Projects\TiendasJhon\CapaNegocios\bin\Debug\CapaNegocios.pdb
+c:\users\admiinistrador\documents\visual studio 2013\Projects\TiendasJhon\CapaNegocios\bin\Debug\CapaDeDatos.dll
+c:\users\admiinistrador\documents\visual studio 2013\Projects\TiendasJhon\CapaNegocios\bin\Debug\CapaDeDatos.pdb
+c:\users\admiinistrador\documents\visual studio 2013\Projects\TiendasJhon\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+c:\users\admiinistrador\documents\visual studio 2013\Projects\TiendasJhon\CapaNegocios\obj\Debug\CapaNegocios.dll
+c:\users\admiinistrador\documents\visual studio 2013\Projects\TiendasJhon\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\USER\Desktop\TiendasJhon\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\USER\Desktop\TiendasJhon\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\USER\Desktop\TiendasJhon\CapaNegocios\bin\Debug\CapaDeDatos.dll
+C:\Users\USER\Desktop\TiendasJhon\CapaNegocios\bin\Debug\CapaDeDatos.pdb
+C:\Users\USER\Desktop\TiendasJhon\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\TiendasJhon\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\USER\Desktop\TiendasJhon\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\Admiinistrador\Desktop\TiendasJhon\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\Admiinistrador\Desktop\TiendasJhon\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\Admiinistrador\Desktop\TiendasJhon\CapaNegocios\bin\Debug\CapaDeDatos.dll
+C:\Users\Admiinistrador\Desktop\TiendasJhon\CapaNegocios\bin\Debug\CapaDeDatos.pdb
+C:\Users\Admiinistrador\Desktop\TiendasJhon\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\Admiinistrador\Desktop\TiendasJhon\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\Admiinistrador\Desktop\TiendasJhon\CapaNegocios\obj\Debug\CapaNegocios.pdb

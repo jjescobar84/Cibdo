@@ -1,0 +1,5 @@
+c:\users\admiinistrador\documents\visual studio 2013\Projects\ConexionesTresCapas\Logica\bin\Debug\Logica.dll
+c:\users\admiinistrador\documents\visual studio 2013\Projects\ConexionesTresCapas\Logica\bin\Debug\Logica.pdb
+c:\users\admiinistrador\documents\visual studio 2013\Projects\ConexionesTresCapas\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+c:\users\admiinistrador\documents\visual studio 2013\Projects\ConexionesTresCapas\Logica\obj\Debug\Logica.dll
+c:\users\admiinistrador\documents\visual studio 2013\Projects\ConexionesTresCapas\Logica\obj\Debug\Logica.pdb

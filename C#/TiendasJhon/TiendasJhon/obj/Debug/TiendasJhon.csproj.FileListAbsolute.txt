@@ -1,0 +1,42 @@
+c:\users\admiinistrador\documents\visual studio 2013\Projects\TiendasJhon\TiendasJhon\bin\Debug\TiendasJhon.exe.config
+c:\users\admiinistrador\documents\visual studio 2013\Projects\TiendasJhon\TiendasJhon\obj\Debug\TiendasJhon.csprojResolveAssemblyReference.cache
+c:\users\admiinistrador\documents\visual studio 2013\Projects\TiendasJhon\TiendasJhon\obj\Debug\TiendasJhon.FormularioPrincipal.resources
+c:\users\admiinistrador\documents\visual studio 2013\Projects\TiendasJhon\TiendasJhon\obj\Debug\TiendasJhon.Productos.resources
+c:\users\admiinistrador\documents\visual studio 2013\Projects\TiendasJhon\TiendasJhon\obj\Debug\TiendasJhon.Properties.Resources.resources
+c:\users\admiinistrador\documents\visual studio 2013\Projects\TiendasJhon\TiendasJhon\obj\Debug\TiendasJhon.csproj.GenerateResource.Cache
+c:\users\admiinistrador\documents\visual studio 2013\Projects\TiendasJhon\TiendasJhon\bin\Debug\TiendasJhon.exe
+c:\users\admiinistrador\documents\visual studio 2013\Projects\TiendasJhon\TiendasJhon\bin\Debug\TiendasJhon.pdb
+c:\users\admiinistrador\documents\visual studio 2013\Projects\TiendasJhon\TiendasJhon\bin\Debug\CapaNegocios.dll
+c:\users\admiinistrador\documents\visual studio 2013\Projects\TiendasJhon\TiendasJhon\bin\Debug\CapaDeDatos.dll
+c:\users\admiinistrador\documents\visual studio 2013\Projects\TiendasJhon\TiendasJhon\bin\Debug\CapaNegocios.pdb
+c:\users\admiinistrador\documents\visual studio 2013\Projects\TiendasJhon\TiendasJhon\bin\Debug\CapaDeDatos.pdb
+c:\users\admiinistrador\documents\visual studio 2013\Projects\TiendasJhon\TiendasJhon\obj\Debug\TiendasJhon.exe
+c:\users\admiinistrador\documents\visual studio 2013\Projects\TiendasJhon\TiendasJhon\obj\Debug\TiendasJhon.pdb
+C:\Users\USER\Desktop\TiendasJhon\TiendasJhon\bin\Debug\TiendasJhon.exe.config
+C:\Users\USER\Desktop\TiendasJhon\TiendasJhon\obj\Debug\TiendasJhon.exe
+C:\Users\USER\Desktop\TiendasJhon\TiendasJhon\obj\Debug\TiendasJhon.pdb
+C:\Users\USER\Desktop\TiendasJhon\TiendasJhon\bin\Debug\TiendasJhon.exe
+C:\Users\USER\Desktop\TiendasJhon\TiendasJhon\bin\Debug\TiendasJhon.pdb
+C:\Users\USER\Desktop\TiendasJhon\TiendasJhon\bin\Debug\CapaNegocios.dll
+C:\Users\USER\Desktop\TiendasJhon\TiendasJhon\bin\Debug\CapaDeDatos.dll
+C:\Users\USER\Desktop\TiendasJhon\TiendasJhon\bin\Debug\CapaNegocios.pdb
+C:\Users\USER\Desktop\TiendasJhon\TiendasJhon\bin\Debug\CapaDeDatos.pdb
+C:\Users\USER\Desktop\TiendasJhon\TiendasJhon\obj\Debug\TiendasJhon.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\TiendasJhon\TiendasJhon\obj\Debug\TiendasJhon.FormularioPrincipal.resources
+C:\Users\USER\Desktop\TiendasJhon\TiendasJhon\obj\Debug\TiendasJhon.Productos.resources
+C:\Users\USER\Desktop\TiendasJhon\TiendasJhon\obj\Debug\TiendasJhon.Properties.Resources.resources
+C:\Users\USER\Desktop\TiendasJhon\TiendasJhon\obj\Debug\TiendasJhon.csproj.GenerateResource.Cache
+C:\Users\Admiinistrador\Desktop\TiendasJhon\TiendasJhon\bin\Debug\TiendasJhon.exe.config
+C:\Users\Admiinistrador\Desktop\TiendasJhon\TiendasJhon\obj\Debug\TiendasJhon.exe
+C:\Users\Admiinistrador\Desktop\TiendasJhon\TiendasJhon\obj\Debug\TiendasJhon.pdb
+C:\Users\Admiinistrador\Desktop\TiendasJhon\TiendasJhon\bin\Debug\TiendasJhon.exe
+C:\Users\Admiinistrador\Desktop\TiendasJhon\TiendasJhon\bin\Debug\TiendasJhon.pdb
+C:\Users\Admiinistrador\Desktop\TiendasJhon\TiendasJhon\bin\Debug\CapaNegocios.dll
+C:\Users\Admiinistrador\Desktop\TiendasJhon\TiendasJhon\bin\Debug\CapaDeDatos.dll
+C:\Users\Admiinistrador\Desktop\TiendasJhon\TiendasJhon\bin\Debug\CapaNegocios.pdb
+C:\Users\Admiinistrador\Desktop\TiendasJhon\TiendasJhon\bin\Debug\CapaDeDatos.pdb
+C:\Users\Admiinistrador\Desktop\TiendasJhon\TiendasJhon\obj\Debug\TiendasJhon.csprojResolveAssemblyReference.cache
+C:\Users\Admiinistrador\Desktop\TiendasJhon\TiendasJhon\obj\Debug\TiendasJhon.FormularioPrincipal.resources
+C:\Users\Admiinistrador\Desktop\TiendasJhon\TiendasJhon\obj\Debug\TiendasJhon.Productos.resources
+C:\Users\Admiinistrador\Desktop\TiendasJhon\TiendasJhon\obj\Debug\TiendasJhon.Properties.Resources.resources
+C:\Users\Admiinistrador\Desktop\TiendasJhon\TiendasJhon\obj\Debug\TiendasJhon.csproj.GenerateResource.Cache
