@@ -1,0 +1,114 @@
+@font-face {
+    font-family: 'icomoon';
+    src:    url('fonts/icomoon.eot?1zxl09');
+    src:    url('fonts/icomoon.eot?1zxl09#iefix') format('embedded-opentype'),
+        url('fonts/icomoon.ttf?1zxl09') format('truetype'),
+        url('fonts/icomoon.woff?1zxl09') format('woff'),
+        url('fonts/icomoon.svg?1zxl09#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-cabinet:before {
+    content: "\e914";
+}
+.icon-calendar2:before {
+    content: "\e915";
+}
+.icon-graduate:before {
+    content: "\e916";
+}
+.icon-soccer:before {
+    content: "\e917";
+}
+.icon-brush:before {
+    content: "\e918";
+}
+.icon-dollar:before {
+    content: "\e919";
+}
+.icon-pig:before {
+    content: "\e91a";
+}
+.icon-clipboard:before {
+    content: "\e91b";
+}
+.icon-clipboard2:before {
+    content: "\e91c";
+}
+.icon-event:before {
+    content: "\e900";
+}
+.icon-home:before {
+    content: "\e901";
+}
+.icon-books:before {
+    content: "\e902";
+}
+.icon-folder-download:before {
+    content: "\e903";
+}
+.icon-cart:before {
+    content: "\e904";
+}
+.icon-pushpin:before {
+    content: "\e905";
+}
+.icon-bell:before {
+    content: "\e906";
+}
+.icon-calendar:before {
+    content: "\e907";
+}
+.icon-user-plus:before {
+    content: "\e908";
+}
+.icon-user-minus:before {
+    content: "\e909";
+}
+.icon-user-check:before {
+    content: "\e90a";
+}
+.icon-user-tie:before {
+    content: "\e90b";
+}
+.icon-search:before {
+    content: "\e90c";
+}
+.icon-zoom-in:before {
+    content: "\e90d";
+}
+.icon-zoom-out:before {
+    content: "\e90e";
+}
+.icon-cog:before {
+    content: "\e90f";
+}
+.icon-switch:before {
+    content: "\e910";
+}
+.icon-cancel-circle:before {
+    content: "\e911";
+}
+.icon-facebook2:before {
+    content: "\e912";
+    
+}
+.icon-twitter:before {
+    content: "\e913";
+}

@@ -1,0 +1,175 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Veiw.SiteMaster" %>
+
+<!DOCTYPE html>
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <title><%: Page.Title %> - Cibdo</title>
+    <asp:PlaceHolder runat="server">     
+          <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>  
+    <webopt:BundleReference runat="server" Path="~/Content/css" /> 
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="Content/style.css" rel="stylesheet" />
+    <link href="Content/icons.css" rel="stylesheet" />
+    <link href="Content/font-awesome.min.css" rel="stylesheet" />
+    <link href="Content/font-awesome.css" rel="stylesheet" />
+    <link href="Content/tabs.css" rel="stylesheet" />
+    <link href="Content/jquery.dataTables.min.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width" />
+    <asp:ContentPlaceHolder runat="server" ID="HeadContent" />
+</head>
+<body style="background-color:#ede9e9">
+    <form runat="server">
+    <asp:ScriptManager runat="server">
+        <Scripts>
+            <%--To learn more about bundling scripts in ScriptManager see http://go.microsoft.com/fwlink/?LinkID=272931&clcid=0x409 --%>
+            <%--Framework Scripts--%>
+            
+            <asp:ScriptReference Name="MsAjaxBundle" />
+            <asp:ScriptReference Name="jquery" />
+            <asp:ScriptReference Name="jquery.ui.combined" />
+            <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+            <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+            <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+            <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+            <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+            <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+            <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+            <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+            <asp:ScriptReference Name="WebFormsBundle" />
+            <%--Site Scripts--%>
+
+        </Scripts>
+    </asp:ScriptManager>
+
+      <nav style="background-color:#1b5e20" class="navbar navbar-default">
+    <div class="container-fluid">
+      <ul>
+        <li>
+          <a href="Principal.html"><img src="Images/o.png" alt="logo" style=" width: 50px;height: 50px;margin-top:10px" class="img-circle"> </a>
+        </li>
+      </ul>
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-xs-4" style="float:right">
+            <div class="col-sm-4" style="float:right">
+              <ul style="float:right">
+                <li>
+                  <a href="1.html" class="icon icon-switch fa-2x " style="float:right;margin-top:-40px;color:white"></a>
+                </li>
+                <li>
+                  <a href="#" class="icon icon-cog fa-2x " style="float:right;margin-top:-40px;color:white;margin-right:70px"></a>
+                </li>
+                <asp:Button Text="Buscar" runat="server" cssclass="btn btn-primary" style="float:right;margin-top:-40px;color:white;margin-right:150px"/>
+                 <asp:TextBox text="Buscar" runat="server" cssclass="form-control" style="float:right;margin-top:-40px;margin-right:250px"/>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+        <!-- Menu -->
+    <header style="margin-top:-15px" >
+          <nav>
+      <ul>
+        <li ><a href="Principal.html"><span class="primero"><i class="icon icon-home"></i></span>Inicio</a>
+        </li>
+        <li><a><span class="tercero"><i class="icon icon-books"></i></span>Matrículas</a>
+          <ul>
+            <li><a href="RegistrarMatriculas.html">Registrar Matrícula</a></li>
+            <li><a href="ConsultarMatriculas.html">Consultar Matrícula</a></li>
+          </ul>
+        </li>
+        <li><a><span class="cuarto"><i class="icon icon-brush"></i></span>Cursos</a>
+          <ul>
+            <li><a href="RegistrarCurso.html">Registrar Curso</a></li>
+            <li><a href="ConsultarCurso.html">Consultar Curso</a></li>
+          </ul>
+        </li>
+        <li><a><span class="sexto"><i class="icon icon-calendar2"></i></span>Eventos</a>
+          <ul>
+            <li><a href="RegistrarEvento.html">Registrar Evento</a></li>
+            <li><a href="ConsultarEvento.html">Consultar Evento</a></li>
+          </ul>
+        </li>
+        <li><a><span class="septimo"><i class="icon icon-cart"></i></span>Aportes</a>
+        <ul>
+          <li><a href="Registrar-Alquiler.html">Registrar Aportes</a></li>
+          <li><a href="ConsultarAlquiler.html">Consultar Aportes</a></li>
+        </ul>
+        </li>
+        <li><a><span class="octavo"><i class="icon icon-soccer"></i></span>Elementos</a>
+          <ul>
+            <li><a href="RegistrarElemento.html">Registrar Elemento</a></li>
+            <li><a href="ConsultarElemento.html">Consultar Elemento</a></li>
+          </ul>
+        </li>
+        <li><a><span class="noveno"><i class="icon icon-dollar"></i></span>Pagos</a>
+          <ul>
+            <li><a href="ConsultarConstancia.html">Consultar Constancia</a></li>
+          </ul>
+        </li>
+        <li><a href="Recordatorios.html"><span class="decimo"><i class="icon icon-pushpin"></i></span>Recordatorios</a>
+        </li>
+        <li><a href="Informes.html"><span class="undecimo"><i class="icon icon-"></i></span>Informes</a>
+        </li>
+      </ul>
+    </nav>
+
+        <!-- cuerpo-->
+    </header>
+    <div id="body">
+        <asp:ContentPlaceHolder runat="server" ID="FeaturedContent" />
+    </div>
+
+        <!-- Footer-->
+        <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+         <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> 
+    <footer style="background-color:#1b5e20;color:white">
+        <div class="content-wrapper">
+ 
+        <div class="container">
+          <div class="row">
+            <div class="col-xs-4">
+              <div class="col-sm-4">
+            <ul>
+            <a href="https://es-la.facebook.com/cibdo.centrodeintegracion" class="icon icon-facebook2 fa-3x img-rounded " style="margin-left:-80px;margin-top:25px; float:left;background-color:white"></a>
+            <a href="https://twitter.com/micibdo" class="icon icon-twitter fa-3x img-rounded" style="margin-right:-100px;margin-top:25px;float:right; background-color:white"></a>
+          </ul>
+         </div>  
+        </div>
+        <div class="col-xs-4" >
+          <br>   
+            <p><strong> WWW.CIBSOFTDO.COM</strong></p>
+         
+              <p> Copyright &#169 2016</p>
+              <ul class="list-inline text-right">
+              </ul>     
+            
+        </div>
+        <div class="col-xs-4">
+          
+           <p>Donde Encontrarnos: Cll 87A#56-78 (Doce De Octubre)</p>
+              <br>Telefono: 4855887
+              <br>Administrador(a): Deisy Jaramillo
+              <br>Correo: Cibdo@hotmail.com<br>
+            
+          
+        </div>
+    </div>
+        </div>
+            </div>
+        
+            </footer>
+        </form>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <script src="Scripts/bootstrap.js"></script>
+    <script src="Scripts/jquery.js"></script>
+    <script src="Scripts/jquery.dataTables.min.js"></script>
+    <script src="Scripts/jquery-2.1.4.min.js"></script>
+</body>
+</html>
