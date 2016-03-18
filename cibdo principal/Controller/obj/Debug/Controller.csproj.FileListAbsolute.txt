@@ -1,0 +1,35 @@
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\Controller\bin\Debug\Controller.dll
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\Controller\bin\Debug\Controller.pdb
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\Controller\bin\Debug\Model.dll
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\Controller\bin\Debug\Model.pdb
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\Controller\obj\Debug\Controller.dll
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\Controller\obj\Debug\Controller.pdb
+G:\ \cibdo\Controller\bin\Debug\Controller.dll
+G:\ \cibdo\Controller\bin\Debug\Controller.pdb
+G:\ \cibdo\Controller\bin\Debug\Model.dll
+G:\ \cibdo\Controller\bin\Debug\Model.pdb
+G:\ \cibdo\Controller\obj\Debug\Controller.dll
+G:\ \cibdo\Controller\obj\Debug\Controller.pdb
+G:\ \cibdo\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+C:\Users\Admiinistrador\Desktop\cibdo\Controller\bin\Debug\Controller.dll
+C:\Users\Admiinistrador\Desktop\cibdo\Controller\bin\Debug\Controller.pdb
+C:\Users\Admiinistrador\Desktop\cibdo\Controller\bin\Debug\Model.dll
+C:\Users\Admiinistrador\Desktop\cibdo\Controller\bin\Debug\Model.pdb
+C:\Users\Admiinistrador\Desktop\cibdo\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+C:\Users\Admiinistrador\Desktop\cibdo\Controller\obj\Debug\Controller.dll
+C:\Users\Admiinistrador\Desktop\cibdo\Controller\obj\Debug\Controller.pdb
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\Controller\bin\Debug\Controller.dll
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\Controller\bin\Debug\Controller.pdb
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\Controller\bin\Debug\Model.dll
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\Controller\bin\Debug\Model.pdb
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\Controller\obj\Debug\Controller.dll
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\Controller\obj\Debug\Controller.pdb
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\Controller\bin\Debug\Controller.dll
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\Controller\bin\Debug\Controller.pdb
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\Controller\bin\Debug\Model.dll
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\Controller\bin\Debug\Model.pdb
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\Controller\obj\Debug\Controller.dll
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\Controller\obj\Debug\Controller.pdb

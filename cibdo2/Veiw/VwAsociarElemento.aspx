@@ -111,7 +111,6 @@
           </div>
         </div>
       </div>
-        <!-- Tabs-->
       <div class="col-xs-6">
         <div class="col-ms-6">
           <ul class="tabs">
@@ -120,18 +119,24 @@
               <label for="tab-1">Objetos</label>
               <div class="tab-content">
                 <p>
-                  <asp:GridView ID="GridView1" runat="server"></asp:GridView>
+                  polla grande
                 </p>
               </div>
             </li>
-
-
             <li>
               <input type="radio" name="tabs" id="tab-2">
               <label for="tab-2">Espacio</label>
               <div class="tab-content">
                 <p>
-                  polla pequeña
+                  <asp:GridView ID="GridView1" runat="server" OnSelectedIndexChanged="GridView1_SelectedIndexChanged" AutoGenerateColumns="False" GridLines="none" CssClass="mGrid">
+                   <Columns> 
+                       <asp:BoundField DataField="nombre" HeaderText="Nombre" SortExpression="nombre" />
+                       <asp:BoundField DataField="descripcion" HeaderText="Tipo" SortExpression="descripcion"/>
+                       <asp:BoundField DataField="costo" HeaderText="Costo" SortExpression="costo"/>
+                       <asp:BoundField DataField="estado_espacio" HeaderText="Estado" SortExpression="estado_espacio"/>
+                       
+                   </Columns>
+                 </asp:GridView>
                 </p>
               </div>
             </li>

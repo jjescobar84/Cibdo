@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="db_cibdo" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=P7AULA4-PC06;Initial Catalog=db_cibdo;Integrated Security=True" SettingsObjectName="Model.Properties.Settings" SettingsPropertyName="db_cibdoConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tb_Cuenta" Member="tb_Cuenta">
+    <Type Name="tb_Cuenta">
+      <Column Name="idCuenta" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="usuario" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="contraseña" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="tb_Cuenta_tb_Persona" Member="tb_Persona" ThisKey="idCuenta" OtherKey="Cuenta_idCuenta" Type="tb_Persona" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tb_Enfoque_poblacional" Member="tb_Enfoque_poblacional">
+    <Type Name="tb_Enfoque_poblacional">
+      <Column Name="idEnfoque_poblacional" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="descripcion" Type="System.String" DbType="VarChar(200) NOT NULL" CanBeNull="false" />
+      <Association Name="tb_Enfoque_poblacional_tb_Persona" Member="tb_Persona" ThisKey="idEnfoque_poblacional" OtherKey="tb_Enfoque_poblacional_idEnfoque_poblacional" Type="tb_Persona" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tb_Objetos" Member="tb_Objetos">
+    <Type Name="tb_Objetos">
+      <Column Name="idObjetos" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="nombre" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="estado" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="cantidad" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tb_Espacio" Member="tb_Espacio">
+    <Type Name="tb_Espacio">
+      <Column Name="idEspacio" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="nombre" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="costo" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="estado_espacio" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Tipo_espacio_idTipo_espacio1" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="tb_Tipo_espacio_tb_Espacio" Member="tb_Tipo_espacio" ThisKey="Tipo_espacio_idTipo_espacio1" OtherKey="idTipo_espacio" Type="tb_Tipo_espacio" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tb_Persona" Member="tb_Persona">
+    <Type Name="tb_Persona">
+      <Column Name="idPersona" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="nombre" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="apellido" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="nro_documento" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="fecha_nacimiento" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="eps" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="estrato" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="direccion" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="celular" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="sexo" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="tipo_persona" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ciudad" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Cuenta_idCuenta" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="tb_tipo_documento_id_tipo_documento" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="tb_Enfoque_poblacional_idEnfoque_poblacional" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="tb_Persona_tb_Recordatorios" Member="tb_Recordatorios" ThisKey="idPersona" OtherKey="Persona_idPersona" Type="tb_Recordatorios" />
+      <Association Name="tb_Cuenta_tb_Persona" Member="tb_Cuenta" ThisKey="Cuenta_idCuenta" OtherKey="idCuenta" Type="tb_Cuenta" IsForeignKey="true" />
+      <Association Name="tb_Enfoque_poblacional_tb_Persona" Member="tb_Enfoque_poblacional" ThisKey="tb_Enfoque_poblacional_idEnfoque_poblacional" OtherKey="idEnfoque_poblacional" Type="tb_Enfoque_poblacional" IsForeignKey="true" />
+      <Association Name="tb_tipo_documento_tb_Persona" Member="tb_tipo_documento" ThisKey="tb_tipo_documento_id_tipo_documento" OtherKey="id_tipo_documento" Type="tb_tipo_documento" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tb_Recordatorios" Member="tb_Recordatorios">
+    <Type Name="tb_Recordatorios">
+      <Column Name="idRecordatorio" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="nombre" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="fecha" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="hora" Type="System.TimeSpan" DbType="Time NOT NULL" CanBeNull="false" />
+      <Column Name="descripcion" Type="System.String" DbType="VarChar(200) NOT NULL" CanBeNull="false" />
+      <Column Name="Persona_idPersona" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Tipo_recordatorio_descripcion" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Association Name="tb_Persona_tb_Recordatorios" Member="tb_Persona" ThisKey="Persona_idPersona" OtherKey="idPersona" Type="tb_Persona" IsForeignKey="true" />
+      <Association Name="tb_Tipo_recordatorio_tb_Recordatorios" Member="tb_Tipo_recordatorio" ThisKey="Tipo_recordatorio_descripcion" OtherKey="descripcion" Type="tb_Tipo_recordatorio" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tb_tipo_documento" Member="tb_tipo_documento">
+    <Type Name="tb_tipo_documento">
+      <Column Name="id_tipo_documento" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="nombre" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="abreviado" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="tb_tipo_documento_tb_Persona" Member="tb_Persona" ThisKey="id_tipo_documento" OtherKey="tb_tipo_documento_id_tipo_documento" Type="tb_Persona" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tb_Tipo_espacio" Member="tb_Tipo_espacio">
+    <Type Name="tb_Tipo_espacio">
+      <Column Name="idTipo_espacio" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="nombre" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="tb_Tipo_espacio_tb_Espacio" Member="tb_Espacio" ThisKey="idTipo_espacio" OtherKey="Tipo_espacio_idTipo_espacio1" Type="tb_Espacio" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tb_Tipo_recordatorio" Member="tb_Tipo_recordatorio">
+    <Type Name="tb_Tipo_recordatorio">
+      <Column Name="descripcion" Type="System.String" DbType="VarChar(200) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Association Name="tb_Tipo_recordatorio_tb_Recordatorios" Member="tb_Recordatorios" ThisKey="descripcion" OtherKey="Tipo_recordatorio_descripcion" Type="tb_Recordatorios" />
+    </Type>
+  </Table>
+  <Function Name="dbo.delete_recordatorio" Method="delete_recordatorio">
+    <Parameter Name="idRecordatorio" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.insert_tb_Objeto" Method="insert_tb_Objeto">
+    <Parameter Name="nombre" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="estado" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="cantidad" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.insert_tb_Recordatorios" Method="insert_tb_Recordatorios">
+    <Parameter Name="nombre" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="fecha" Type="System.DateTime" DbType="DateTime" />
+    <Parameter Name="hora" Type="System.DateTime" DbType="DateTime" />
+    <Parameter Name="descripcion" Type="System.String" DbType="VarChar(200)" />
+    <Parameter Name="Persona_idPersona" Parameter="persona_idPersona" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Tipo_recordatorio_descripcion" Parameter="tipo_recordatorio_descripcion" Type="System.String" DbType="VarChar(200)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.select_tb_Recordatorios" Method="select_tb_Recordatorios">
+    <ElementType Name="select_tb_RecordatoriosResult">
+      <Column Name="idRecordatorio" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="nombre" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="fecha" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="hora" Type="System.TimeSpan" DbType="Time NOT NULL" CanBeNull="false" />
+      <Column Name="descripcion" Type="System.String" DbType="VarChar(200) NOT NULL" CanBeNull="false" />
+      <Column Name="Persona_idPersona" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Tipo_recordatorio_descripcion" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.update_Recordatorios" Method="update_Recordatorios">
+    <Parameter Name="idRecordatorio" Type="System.Int32" DbType="Int" />
+    <Parameter Name="nombre" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="fecha" Type="System.DateTime" DbType="DateTime" />
+    <Parameter Name="hora" Type="System.DateTime" DbType="DateTime" />
+    <Parameter Name="descripcion" Type="System.String" DbType="VarChar(200)" />
+    <Parameter Name="Persona_idPersona" Parameter="persona_idPersona" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Tipo_recordatorio_descripcion" Parameter="tipo_recordatorio_descripcion" Type="System.String" DbType="VarChar(200)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.select_tipo_recordatorio" Method="select_tipo_recordatorio">
+    <ElementType Name="select_tipo_recordatorioResult">
+      <Column Name="descripcion" Type="System.String" DbType="VarChar(200) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+</Database>

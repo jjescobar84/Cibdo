@@ -35,3 +35,7 @@ C:\Users\USER\Desktop\cibdo2\Veiw\bin\Microsoft.AspNet.FriendlyUrls.xml
 C:\Users\USER\Desktop\cibdo2\Veiw\obj\Debug\Veiw.dll
 C:\Users\USER\Desktop\cibdo2\Veiw\obj\Debug\Veiw.pdb
 C:\Users\USER\Desktop\cibdo2\Veiw\obj\Debug\Veiw.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\cibdo2\Veiw\bin\Controller.dll
+C:\Users\USER\Desktop\cibdo2\Veiw\bin\Controller.pdb
+C:\Users\USER\Desktop\cibdo2\Veiw\bin\Model.dll
+C:\Users\USER\Desktop\cibdo2\Veiw\bin\Model.pdb

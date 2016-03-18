@@ -1,0 +1,213 @@
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\bin\View.dll.config
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\bin\View.dll
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\bin\View.pdb
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\bin\Antlr3.Runtime.dll
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\bin\AspNet.ScriptManager.jQuery.dll
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\bin\Controller.dll
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\bin\DotNetOpenAuth.AspNet.dll
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\bin\DotNetOpenAuth.Core.dll
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\bin\DotNetOpenAuth.OAuth.dll
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\bin\DotNetOpenAuth.OpenId.dll
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\bin\EntityFramework.dll
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\bin\EntityFramework.SqlServer.dll
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\bin\Microsoft.ScriptManager.WebForms.dll
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\bin\Microsoft.Web.Infrastructure.dll
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\bin\System.Web.Optimization.dll
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\bin\System.Web.Providers.dll
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\bin\WebGrease.dll
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\bin\Model.dll
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\bin\Controller.pdb
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\bin\EntityFramework.xml
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\bin\EntityFramework.SqlServer.xml
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\bin\System.Web.Providers.xml
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\bin\DotNetOpenAuth.Core.xml
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\bin\DotNetOpenAuth.OAuth.xml
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\bin\DotNetOpenAuth.OpenId.xml
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\bin\DotNetOpenAuth.AspNet.xml
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\bin\Model.pdb
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\obj\Debug\View.dll
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\View\obj\Debug\View.pdb
+G:\ \cibdo\View\bin\View.dll.config
+G:\ \cibdo\View\bin\View.dll
+G:\ \cibdo\View\bin\View.pdb
+G:\ \cibdo\View\bin\Antlr3.Runtime.dll
+G:\ \cibdo\View\bin\AspNet.ScriptManager.jQuery.dll
+G:\ \cibdo\View\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+G:\ \cibdo\View\bin\Controller.dll
+G:\ \cibdo\View\bin\DotNetOpenAuth.AspNet.dll
+G:\ \cibdo\View\bin\DotNetOpenAuth.Core.dll
+G:\ \cibdo\View\bin\DotNetOpenAuth.OAuth.Consumer.dll
+G:\ \cibdo\View\bin\DotNetOpenAuth.OAuth.dll
+G:\ \cibdo\View\bin\DotNetOpenAuth.OpenId.dll
+G:\ \cibdo\View\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+G:\ \cibdo\View\bin\EntityFramework.dll
+G:\ \cibdo\View\bin\EntityFramework.SqlServer.dll
+G:\ \cibdo\View\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\ \cibdo\View\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+G:\ \cibdo\View\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\ \cibdo\View\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\ \cibdo\View\bin\Microsoft.ScriptManager.WebForms.dll
+G:\ \cibdo\View\bin\Microsoft.Web.Infrastructure.dll
+G:\ \cibdo\View\bin\System.Web.Optimization.dll
+G:\ \cibdo\View\bin\System.Web.Providers.dll
+G:\ \cibdo\View\bin\WebGrease.dll
+G:\ \cibdo\View\bin\Model.dll
+G:\ \cibdo\View\bin\Controller.pdb
+G:\ \cibdo\View\bin\EntityFramework.xml
+G:\ \cibdo\View\bin\EntityFramework.SqlServer.xml
+G:\ \cibdo\View\bin\System.Web.Providers.xml
+G:\ \cibdo\View\bin\DotNetOpenAuth.Core.xml
+G:\ \cibdo\View\bin\DotNetOpenAuth.OAuth.xml
+G:\ \cibdo\View\bin\DotNetOpenAuth.OAuth.Consumer.xml
+G:\ \cibdo\View\bin\DotNetOpenAuth.OpenId.xml
+G:\ \cibdo\View\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+G:\ \cibdo\View\bin\DotNetOpenAuth.AspNet.xml
+G:\ \cibdo\View\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+G:\ \cibdo\View\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\ \cibdo\View\bin\Model.pdb
+G:\ \cibdo\View\bin\es\System.Web.Optimization.resources.dll
+G:\ \cibdo\View\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+G:\ \cibdo\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+G:\ \cibdo\View\obj\Debug\View.dll
+G:\ \cibdo\View\obj\Debug\View.pdb
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\View.dll.config
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\View.dll
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\View.pdb
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\Antlr3.Runtime.dll
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\Controller.dll
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\DotNetOpenAuth.Core.dll
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\EntityFramework.dll
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\EntityFramework.SqlServer.dll
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\System.Web.Optimization.dll
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\System.Web.Providers.dll
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\WebGrease.dll
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\Model.dll
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\Controller.pdb
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\EntityFramework.xml
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\EntityFramework.SqlServer.xml
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\System.Web.Providers.xml
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\DotNetOpenAuth.Core.xml
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\Model.pdb
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Admiinistrador\Desktop\cibdo\View\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Admiinistrador\Desktop\cibdo\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\Admiinistrador\Desktop\cibdo\View\obj\Debug\View.dll
+C:\Users\Admiinistrador\Desktop\cibdo\View\obj\Debug\View.pdb
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\View.dll.config
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\View.dll
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\View.pdb
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\Antlr3.Runtime.dll
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\Controller.dll
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\DotNetOpenAuth.Core.dll
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\EntityFramework.dll
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\EntityFramework.SqlServer.dll
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\System.Web.Optimization.dll
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\System.Web.Providers.dll
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\WebGrease.dll
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\Model.dll
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\Controller.pdb
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\EntityFramework.xml
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\EntityFramework.SqlServer.xml
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\System.Web.Providers.xml
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\DotNetOpenAuth.Core.xml
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\Model.pdb
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\obj\Debug\View.dll
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\View\obj\Debug\View.pdb
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\View.dll.config
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\View.dll
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\View.pdb
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\Antlr3.Runtime.dll
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\Controller.dll
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\DotNetOpenAuth.Core.dll
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\EntityFramework.dll
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\System.Web.Optimization.dll
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\System.Web.Providers.dll
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\WebGrease.dll
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\Model.dll
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\Controller.pdb
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\EntityFramework.xml
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\System.Web.Providers.xml
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\DotNetOpenAuth.Core.xml
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\Model.pdb
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\es\System.Web.Optimization.resources.dll
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\obj\Debug\View.dll
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\View\obj\Debug\View.pdb

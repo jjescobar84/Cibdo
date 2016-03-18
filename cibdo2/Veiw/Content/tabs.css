@@ -1,8 +1,13 @@
 .tabs{
   list-style-type: none;
   padding: 0;
-  margin: 0;
   position: relative;
+    top: 8px;
+    left: -10px;
+    height: 60px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
 }
 
 .tabs li{
@@ -34,7 +39,8 @@
   left: 0;
   padding: 20px;
   border: 1px solid #000;
-  height: 200px;
+  height: 500px;
+  width: 500px;
   /*overflow: scroll;*/
 }
 

@@ -1,0 +1,27 @@
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\Model\bin\Debug\Model.dll.config
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\Model\bin\Debug\Model.dll
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\Model\bin\Debug\Model.pdb
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\Model\obj\Debug\Model.dll
+c:\Users\USER\documents\visual studio 2013\Projects\cibdo\Model\obj\Debug\Model.pdb
+G:\ \cibdo\Model\obj\Debug\Model.dll
+G:\ \cibdo\Model\bin\Debug\Model.dll.config
+G:\ \cibdo\Model\bin\Debug\Model.dll
+G:\ \cibdo\Model\bin\Debug\Model.pdb
+G:\ \cibdo\Model\obj\Debug\Model.pdb
+C:\Users\Admiinistrador\Desktop\cibdo\Model\bin\Debug\Model.dll.config
+C:\Users\Admiinistrador\Desktop\cibdo\Model\bin\Debug\Model.dll
+C:\Users\Admiinistrador\Desktop\cibdo\Model\bin\Debug\Model.pdb
+C:\Users\Admiinistrador\Desktop\cibdo\Model\obj\Debug\Model.dll
+C:\Users\Admiinistrador\Desktop\cibdo\Model\obj\Debug\Model.pdb
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\Model\bin\Debug\Model.dll.config
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\Model\bin\Debug\Model.dll
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\Model\bin\Debug\Model.pdb
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\Model\obj\Debug\Model.dll
+C:\Users\Admiinistrador\Desktop\CIBDO SVN\cibdo\Model\obj\Debug\Model.pdb
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\Model\bin\Debug\Model.dll.config
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\Model\bin\Debug\Model.dll
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\Model\bin\Debug\Model.pdb
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\Model\obj\Debug\Model.dll
+C:\Users\USER\Desktop\Cibdo SVN\cibdo\Model\obj\Debug\Model.pdb
